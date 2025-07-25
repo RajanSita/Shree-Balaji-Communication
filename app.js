@@ -152,7 +152,7 @@ const appData = {
       name: "Rajesh Kumar",
       rating: 5,
       comment: "Excellent service and genuine products. Bought iPhone 14 at best price!",
-      location: "Mumbai"
+      location: "Delhi"
     },
     {
       name: "Priya Sharma",
@@ -164,7 +164,7 @@ const appData = {
       name: "Amit Patel",
       rating: 4,
       comment: "Professional service and quick repair. Highly recommended!",
-      location: "Pune"
+      location: "Delhi"
     }
   ]
 };
